@@ -20,7 +20,7 @@ This project was created for Codecademy's Full-Stack Engineer Course. The object
 To get started with the project, clone the repository and install dependencies:
 
 ```
-git clone add url from github
+git clone https://github.com/waty229/codecademy-appointment-planner.git
 cd appointment-planner
 npm install
 ```
